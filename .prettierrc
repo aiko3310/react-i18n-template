@@ -1,0 +1,12 @@
+{
+  "//singleQuote": "都使用單引號",
+  "singleQuote": true,
+  "//bracketSpacing": "在obj中加入括號之間的空格。ex { ...default }",
+  "bracketSpacing": true,
+  "//Semicolons": "在語句末尾打印分號。",
+  "Semicolons": true,
+  "//jsxSingleQuote": "在JSX中使用單引號而不是雙引號。",
+  "jsxSingleQuote": true,
+  "//printWidth": "長度",
+  "printWidth": 120
+}
